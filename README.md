@@ -23,6 +23,6 @@ Clone the repo. run "npm i"
 That's it. You're ready to start developing.
 
 ## Known issues:
-first time you open the project, you will have to manually choose Typescript version 3.7 via vscode. 
+if you are using VSCode older than 1.41, first time you open the project, you will have to manually choose Typescript version 3.7 via vscode. 
 Unfortunately, there seems currently there is no way to [enforce Typescript workspace version](https://github.com/microsoft/vscode/issues/65546).
 However, once vscode will support Typescript 3.7 out of the box this won't be necessary.
